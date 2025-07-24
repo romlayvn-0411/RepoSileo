@@ -1,0 +1,108 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://romlayvn.github.io/coverimage/romlayvnrepo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":" PullOver Pro\n\n- Thanh công cụ bong bóng chat cạnh màn hình giúp bạn truy cập nhanh ứng dụng gần đây hoặc yêu thích mà không cần thoát ứng dụng đang dùng.\n\n- Ban có thể thay đổi vị trí trái/phải, bật chế độ tối, điều chỉnh kích thước biểu tượng.\n\n- Hỗ trợ phiên bản IOS 15+.\n\n- Chi tiết xem hình ảnh bên dưới.\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://romlayvn.github.io/infodeb/PullOverpro/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://romlayvn.github.io/infodeb/PullOverpro/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://romlayvn.github.io/infodeb/PullOverpro/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}    
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Tham gia nhóm"
+},
+{
+"markdown":"[**Telegram**](https://t.me/jailbreaktrolliossupport) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"c1d3r"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.1.6" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"6/6/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.6.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiẻn bản 2.1.6\n\n- Sửa lỗi và tăng tốc độ vào app mượt hơn\n\n- Hỗ trợ Rootless & Roothide Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

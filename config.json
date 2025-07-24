@@ -1,0 +1,60 @@
+{
+    "repository": {
+        "name": "Kho Lưu Trữ Romlayvn",
+        "description": "Kho Tinh Chỉnh iOS Hiện Đại",
+        "version": "2.0",
+        "maintainer": {
+            "name": "Romlayvn",
+            "email": "contact@romlayvn.dev"
+        },
+        "social": {
+            "twitter": "@romlayvn",
+            "github": "romlayvn",
+            "website": "https://romlayvn.dev"
+        }
+    },
+    "packages": {
+        "defaultIcon": "assets/tweak.png",
+        "featuredPackages": [
+            "com.romlayvn.welcome",
+            "com.romlayvn.essential"
+        ],
+        "categories": [
+            "Tiện ích",
+            "Tùy biến",
+            "Chỉnh sửa",
+            "Trò chơi",
+            "Phát triển",
+            "Công cụ"
+        ]
+    },
+    "appearance": {
+        "theme": "auto",
+        "accentColor": "#007AFF",
+        "darkMode": {
+            "background": "#1C1C1E",
+            "text": "#FFFFFF"
+        },
+        "lightMode": {
+            "background": "#F2F2F7",
+            "text": "#000000"
+        }
+    },
+    "features": {
+        "autoUpdate": true,
+        "betaChannel": false,
+        "analytics": false,
+        "localizations": ["vi", "en"],
+        "defaultLocale": "vi"
+    },
+    "security": {
+        "enableSSL": true,
+        "verifyPackages": true,
+        "allowBetaPackages": false
+    },
+    "cache": {
+        "enabled": true,
+        "duration": 3600,
+        "clearOnUpdate": true
+    }
+}

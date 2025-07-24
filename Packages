@@ -1,0 +1,2233 @@
+Package: com.spark.snowboard.settingsicons
+Name: SnowBoard Settings Icons Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Settings Icons for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.0.26~Beta3-rootless
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/SnowBoard.Settings.Icons.Extension.1.0.26~Beta3-rootless.arm64e.deb
+Size: 19144
+MD5sum: ac120ecf179285a532748384b0d00dc4
+SHA256: dc484d0a3906dd74aaaa1a8c72ee12650a0145ecb2d6aafd3c1dc6758e259d48
+
+Package: com.0xkuj.bettercccrashprotect
+Name: BetterCCCrashProtect
+Description: Prevent Weather Module with BetterCC crash your idevice
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.0xkuj.bettercccrashprotect_1.0.0_iphoneos-arm64e.deb
+Size: 4504
+MD5sum: 548f18fad202ce450e90843eee5cbdd0
+SHA256: f279c761483516090f0711a1e9f4abbfe2900ac8bcfc5780e700f0b0a6a3dc10
+
+Package: com.0xkuj.safarix
+Version: 1.9.8
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Name: SafariX-New(Roothde)
+Author: 0xkuj
+Maintainer: JTIS Repo
+Description: Thêm nhiều chức năng và điều chỉnh Safari theo ý mình
+Section: Tweaks
+Icon: https://Jtisvn.github.io/sectionIcons/Safarix.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.0xkuj.safarix_1.9.8_iphoneos-arm64e.deb
+Size: 314304
+MD5sum: b5470597733f7275e159130698b49a96
+SHA256: beb5062b0d60ed9cad4cf219bc4981d6a3dc5858ca0135d78313ce8bd6ea72aa
+
+Package: com.LLSwitch.roothide
+Architecture: iphoneos-arm64e
+Name: LLSwitch (Roothide)
+Version: 1.0
+Description: Sweitch nút On/Off mặt cười
+Author: Simon <qiaozhani000@163.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Icon: https://axs66.github.io/repo/icon/llswitch.png
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Swich.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.LLSwitch.roothide_1.0_iphoneos-arm64e.deb
+Size: 17172
+MD5sum: d507b02d7f88c8b1085ab0fd65862312
+SHA256: 72d9501f55607cf6398a863c84a8b71278c8df3b15d66a1188447ebdb26032de
+
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Description: A Preference Library that doesn't suck!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: System
+Homepage: https://creaturecoding.com/
+Tag: compatible_min::iOS9
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Installed-Size: 2332
+Filename: debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 334876
+MD5sum: aa2acda33ed332955734f6c130ffb780
+SHA256: ad1f50f18748aae7c89823b3a257b9fdeb65e07a614d1c9e8cfcf90db1a94fb8
+
+Package: com.hieu.SearchDots
+Name: SearchDots VH(Rootless)
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: file:///var/jb/Library/IconRepo/tinhchinhh1.png
+Description: Mang phong cách tìm kiếm trên iOS 16 xuống iOS 15
+Maintainer: jtis
+Author: NightwinDev
+Section: Tweaks 
+Version: 1.0.0
+Installed-Size: 488
+Filename: debs/com.hieu.SearchDots_1.0.0_iphoneos-arm64.deb
+Size: 119910
+MD5sum: 5242e395a07f0a1b587f7a1a80b0ea2f
+SHA256: 8e9ad5f1101b3cd753784c9f2fe66eaf7a6a084e1927b8de3416246c8d013eef
+
+Package: com.jtis.Cartoo
+Version: 1.0
+Section: Chủ đề
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: Cartoo
+Author: Yangji
+Description: Cài đặt chủ đề cho phím số & passcode qua tinh chỉnh Snowboard cho IPhone của bạn
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Cartoo.json
+Icon: https://jtisvn/jtisvn.github.io/features/Goku.png
+Filename: debs/com.jtis.Cartoo_1.0_iphoneos-arm64.deb
+Size: 371808
+MD5sum: d1eee86bbd8d226931d43bff1176b183
+SHA256: f4b029fa37ecd260964c32f5a6096e7b54a4fe1907e889608dfeb4cf8e909835
+
+Package: com.jtis.CircleMaskiOS19
+Version: 1.0
+Section: Chủ đề
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: CircleMaskiOS19
+Author: Zhuti
+Description: Cài đặt MaskAE IOS 19 bo tròn qua tinh chỉnh Snowboard cho IPhone của bạn
+SileoDepiction: https://jtisvn.github.io/sileodepictions/MaskIOS19.json
+Icon: https://jtisvn/jtisvn.github.io/features/Goku.png
+Filename: debs/com.jtis.CircleMaskiOS19_1.0_iphoneos-arm64.deb
+Size: 20852
+MD5sum: e197d7c8b3c7b6f2119cbff9a35dbbc1
+SHA256: 040a7650d1d4325ad10aa4bf5d62d812f5110843bede8451af3a9f51c7238f6f
+
+Package: com.jtis.DepthsPD
+Version: 0.1
+Section: Laetus Themes Roothide
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64e
+Name: Chủ đề Depths PD (Roothide)
+Author: Polyphian
+Description: Chủ đề bàn phím kích hoạt qua Laetus
+SileoDepiction: https://jtisvn.github.io/sileodepictions/DepthsPD.json
+Icon: https://jailbreaktrolliossupport.github.io/depictions/sectionIcons/dich.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.DepthsPD_0.1_iphoneos-arm64e.deb
+Size: 65725980
+MD5sum: 7a341a5ab0fa59b3d1eac2c3a2aedf19
+SHA256: becae7ace96341cd48eecf73625014f1bf8c973f437e4dda2375ff1319fff25b
+
+Package: com.jtis.FontEdgy
+Version: 1.0
+Section: Fonts
+Maintainer: JTIS Repo
+Author: Edgy
+Architecture: iphoneos-arm64e
+Name: Font Edgy (Roothide)
+Description: Sử dụng phông chữ bằng cách kích hoạt qua Snowboard 
+Icon: https://Jtisvn.github.io/sectionIcons/font3.png
+Filename: debs/com.jtis.FontEdgy_1.0_iphoneos-arm64e.deb
+Size: 9805360
+MD5sum: 7765d9c51d5ca1feb637813fea9ee4ef
+SHA256: bb7bb08d4d800b38749f252595b6300e6b346dd11124121a2adb831497384729
+
+Package: com.jtis.Goku
+Name: Chủ đề Goku (Rotless)
+Version: 0.1
+Section: Laetus Themes Rootless
+Maintainer: JTIS Repo
+Author: Kitsudo
+Description: Chủ đề bàn phím kích hoạt qua Laetus 
+Installed-Size: 7344
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Goku.json
+Icon: https://jtisvn/jtisvn.github.io/features/Goku.png
+Architecture: iphoneos-arm64
+Filename: debs/com.jtis.Goku_0.1_iphoneos-arm64.deb
+Size: 3048172
+MD5sum: 4e433c3a4b68847d56a2e14d13960cdd
+SHA256: 2197c79817459e268b38f41ed52e424b984042294558f11fa38c2e0eaddc747b
+
+Package: com.jtis.LS-16-VN
+Version: 1.0
+Section: LS font
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: LS-16-VN
+Author: p0s3id0n
+Description: Cài đặt Phông chữ màn hình khoá cho IPhone 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/LS-16-VN.json
+Icon: https://jailbreaktrolliossupport.github.io/depictions/sectionIcons/dich.png
+Filename: debs/com.jtis.LS-16-VN_1.0_iphoneos-arm64.deb
+Size: 267792
+MD5sum: c99356ff499f639908721541f785c415
+SHA256: f589fbea03723b2fe1fee5f6f182d6ad407003c783dd151dd3fbc26191d5ebfa
+
+Package: com.jtis.ampere
+Name: Ampere (Rootless)
+Architecture: iphoneos-arm64
+Description: Tùy chỉnh giao điện và phong cách hiển thị pin trên IOS 15 giống kiểu của IOS
+Maintainer: JTIS Repo
+Author: MTAC
+Section: Tweaks
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Ampere.json
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Version: 1.4
+Icon:https://jtisvn.github.io/sectionIcons/Ampere.png
+Installed-Size: 604
+Filename: debs/com.jtis.ampere_1.4_iphoneos-arm64.deb
+Size: 101816
+MD5sum: 6810779c6ac46a42e5d94ecbaf0ccd12
+SHA256: 42667352dfdf4005667961158c1a5e6aebab2ec25fc3d421c51629c4fe896586
+
+Package: com.jtis.appdataplus
+Version: 1.4.0-p
+Section: Tweaks
+Maintainer: JTIS Repo
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.jtis.iconrepo.roothide
+Architecture: iphoneos-arm64e
+Installed-Size: 2412
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Appdataplus.json
+Name: AppData Plus (Roothide)
+Author: Fouad Raheb & Netskao
+Icon: file:///var/jb/Library/IconRepo/tinhchinh.png
+Tag: purpose::extension
+Description: Trình quản lý dữ liệu ứng dụng từ màn hình chính phiên bản được bổ sung thêm chức năng.
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.appdataplus_1.4.0-p_iphoneos-arm64e.deb
+Size: 10042084
+MD5sum: ed522801347f6f89310ca65e572b70b4
+SHA256: ff64bae99cafaa4406b731e610be5a006429dda9a00e4f75017580e598f2d3dd
+
+Package: com.jtis.applecard
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AppLecard.json
+Icon: https://repo.cypwn.xyz/packages/AppLecard-Rootless/icon.png
+Version: 3.3.3-end
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Name: App Lecard (Roothide)
+Author: Crassna
+Description: Chia đôi màn hình các ứng dụng tiện lợi trên iPhone của bạn.
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.applecard_3.3.3-end_iphoneos-arm64e.deb
+Size: 410880
+MD5sum: bb25bfc16d9d812354ad30c80871bf7b
+SHA256: dc6c8ebd369fdce7e38e60da32511a13253c6d501c716329c313f5dece38315e
+
+Package: com.jtis.april
+Name: April (Rootless)
+Description: Nâng tầm thẩm mỹ cho ứng dụng Cài đặt của bạn một cách dễ dàng.
+Maintainer: JTIS Repo
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Icon: https://jtisvn.github.io/sectionIcons/April.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/April.json
+Architecture: iphoneos-arm64
+Version: 3.1
+Installed-Size: 808
+Filename: debs/com.jtis.april_3.1_iphoneos-arm64.deb
+Size: 393164
+MD5sum: d496a990f72c2ef2eb964f6c41ce9635
+SHA256: 09c3416fe6e0aba34e77c780f8ba367c9fd7cfb80aae26188fe787d9a38d3f1e
+
+Package: com.jtis.april
+Name: April (Roothide)
+Description: Nâng tầm thẩm mỹ cho ứng dụng Cài đặt của bạn một cách dễ dàng.
+Maintainer: JTIS Repo
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Icon: https://jtisvn.github.io/sectionIcons/April.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/April.json
+Architecture: iphoneos-arm64e
+Version: 3.1
+Installed-Size: 808
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.april_3.1_iphoneos-arm64e.deb
+Size: 395284
+MD5sum: d5757769915cc303adc95347e022bd6d
+SHA256: a9d964381031c071d1de4e8436905924636e24fe2a424cf3523da1018d6aec84
+
+Package: com.jtis.autofaceunlock-rootless
+Version: 1.1-7
+Section: Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Installed-Size: 452
+Name: AutoFaceUnlock (Rootless)
+Author: Netskao
+Description: Tự động mở khoá không cần vuốt lên để vào màn hình chính cho thiết bị có Faceid.
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AutoFaceUnlock.json
+Filename: debs/com.jtis.autofaceunlock-rootless_1.1-7_iphoneos-arm64.deb
+Size: 63576
+MD5sum: 70475b8c8cc9248f3d7ae5b03bc5cc59
+SHA256: 38ff410e0963200374ce8efa5487f67d606c947390ab011f43e88cf91a2e950d
+
+Package: com.jtis.autoscroll15
+Maintainer: JTIS Repo
+Name: AutoScroll (Roothide)
+Version: 1.0.0
+Description: Chức năng tự động cuộn màn hinhg trên moi ứng dụng.
+Author: pxcex
+Depends: mobilesubstrate
+Section: Tweaks
+Architecture: iphoneos-arm64e
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AutoScroll.json
+Icon: https://i.imgur.com/eZpS8Qf.jpeg
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.autoscroll15_1.0.0_iphoneos-arm64e.deb
+Size: 6448
+MD5sum: b767d698161b9b482768506848aa168b
+SHA256: 9b3e1ba623284c159aa826c97563fe69dad40fd53a241dcc02ca8f01cc2cae24
+
+Package: com.jtis.batteryinfo.r2
+Version: 1.1.8
+Author: developlab
+Section: Tweaks
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Batteryinfo.json
+Icon: https://jtisvn.github.io/sectionIcons/Batteryinfo.png
+Maintainer: developlab
+Installed-Size: 464
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Name: Battery Info (Roothide)
+Architecture: iphoneos-arm64e
+Description: Hiển thị thông tin chi tiết pin
+Filename: debs/com.jtis.batteryinfo.r2_1.1.8_iphoneos-arm64e.deb
+Size: 121248
+MD5sum: 95063f4d26c3650e9e6a316a99f2d158
+SHA256: 006e7e0a082056abc79cd758d29708424ef9b97369183eba43536c0488187103
+
+Package: com.jtis.batteryinfo
+Version: 1.1.8
+Author: developlab
+Section: Tweaks
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Batteryinfo.json
+Icon: https://jtisvn.github.io/sectionIcons/Batteryinfo.png
+Maintainer: developlab
+Installed-Size: 464
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0)
+Name: Battery Info (Rootless)
+Architecture: iphoneos-arm64
+Description: Hiển thị thông tin chi tiết pin
+Filename: debs/com.jtis.batteryinfo_1.1.8_iphoneos-arm64.deb
+Size: 123396
+MD5sum: 4002de1bfcf7dbf9c56ee87a7af6c6c5
+SHA256: b98801fa5fe909d8e30ae08b223a94d53177c604233bf49bebe46d7956384a80
+
+Package: com.jtis.batterypercent
+Name: BatteryPercent iOS16 (Rootless)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Hiển thị % pin iOS 16 cho dòng thấp IOS 15 trở xuống 
+Maintainer: JTIS Repo
+Author: nqt1195
+SileoDepiction: https://jtisvn.github.io/sileodepictions/BatteryPercent.json
+Section: Tweaks
+Version: 1.1.2
+Installed-Size: 104
+Filename: debs/com.jtis.batterypercent_1.1.2_iphoneos-arm64.deb
+Size: 12548
+MD5sum: 094fe1e88aa2860585a97369503749af
+SHA256: 893586e99b20c25d6d080a1d1cd97dd2ce8aa60157b43fed38b4dfd7110cba66
+
+Package: com.jtis.bettercc
+Name: BetterCC (Roothide)
+Version: 0.0.51
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, com.0xkuj.bettercccrashprotect
+Installed-Size: 1828
+SileoDepiction: https://jtisvn.github.io/sileodepictions/BetterCC.json
+Icon: https://jtisvn.github.io/sectionIcons/BetterCC.png
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Maintainer: JTIS Repo
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Filename: debs/com.jtis.bettercc_0.0.51_iphoneos-arm64e.deb
+Size: 142816
+MD5sum: e131a644574bd8dcd15ad907960943b9
+SHA256: 9d6278fc39411184694c9d7ebc5a8a3df3bd9f620e008fe7cd5e95a903d050c4
+
+Package: com.jtis.blur
+Name: Blurify6 (Rootless)
+Description: Khoá ảnh và video riêng thư bằng FaceID,TouchID và Passcode
+Maintainer: JTIS Repo
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0-8+debug
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Blurify6.json
+Installed-Size: 176
+Filename: debs/com.jtis.blur_1.0-8+debug_iphoneos-arm64.deb
+Size: 10436
+MD5sum: 000c7974fbc8311e515c7a3cbbce9d52
+SHA256: 24a5bcca8e0089db5d72bc1d5bb49920b5a85f20a5e236e743c4347366be12f9
+
+Package: com.jtis.blur
+Name: Blurify6 (Roothide)
+Description: Khoá ảnh và video riêng thư bằng FaceID,TouchID và Passcode
+Maintainer: JTIS Repo
+Author: MrDeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.0-8+debug
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Blurify6.json
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.blur_1.0-8+debug_iphoneos-arm64e.deb
+Size: 11412
+MD5sum: 2f4722dc44d7d41cf4320be458ea411e
+SHA256: 33682bb7d2037169655cfe7c97e7e4ffdd3c13c58a13502ace2fddd9a88c80fe
+
+Name: ByeHomeBottomBarX (Rootless)
+Package: com.jtis.byehomebottombarx
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Description: Ẩn hoặc làm mờ thanh điều hướng (Home Bar) dưới cùng trên iPhone X!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: JTIS Repo
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 674
+dev: lucaluca86
+SileoDepiction: https://jtisvn.github.io/sileodepictions/ByeHomeBottomBarX.json
+Filename: debs/com.jtis.byehomebottombarx_1.3.7_iphoneos-arm64.deb
+Size: 81316
+MD5sum: 1f81e7a74d3b03452c95ce38f1bbd601
+SHA256: e23d03b8dc4951412df03948057482dcc5e3e3d3bf1d0068c4dfc9bf015e3f27
+
+Name: ByeHomeBottomBarX (Roothide)
+Package: com.jtis.byehomebottombarx
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Version: 1.3.7
+Architecture: iphoneos-arm64e
+Description: Ẩn hoặc làm mờ thanh điều hướng (Home Bar) dưới cùng trên iPhone X!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: JTIS Repo
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 674
+dev: lucaluca86
+SileoDepiction: https://jtisvn.github.io/sileodepictions/ByeHomeBottomBarX.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.byehomebottombarx_1.3.7_iphoneos-arm64e.deb
+Size: 83312
+MD5sum: 4db646267e02c44813815a20f745dd29
+SHA256: b87cffc26a944cc178e4bfe3d88d1fd1d230275803f6d97b4afe405e5fe1e39f
+
+Package: com.jtis.calculatorhistory
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CalculatorHistory.json
+Icon: https://jtisvn.github.io/sectionIcons/CalculatorHistory.png
+Section: Tweaks
+Installed-Size: 240
+Architecture: iphoneos-arm64
+Version: 1.2
+Depends: mobilesubstrate
+Description: Tiện ích lưu lịch sử ứng dụng máy tính cho thiết bị IOS thấp hơn.
+Name: CalculatorHistory (Rootless)
+Author: fiore
+Filename: debs/com.jtis.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 24260
+MD5sum: 36df60b86b3b4e8c4b062befff398dcc
+SHA256: 803464d6f31ee21caf3a1ae55aebb56ab294749b98d77840f851084a558275db
+
+Package: com.jtis.calculatorhistory
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CalculatorHistory.json
+Icon: https://jtisvn.github.io/sectionIcons/CalculatorHistory.png
+Section: Tweaks
+Installed-Size: 240
+Architecture: iphoneos-arm64e
+Version: 1.2
+Depends: mobilesubstrate
+Description: Tiện ích lưu lịch sử ứng dụng máy tính cho thiết bị IOS thấp hơn.
+Name: CalculatorHistory (Roothide)
+Author: fiore
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.calculatorhistory_1.2_iphoneos-arm64e.deb
+Size: 25248
+MD5sum: 25c82131c107a859815df06b1bbee65e
+SHA256: 4d0075255aaed5e5409b0e620f486a8b03f49e663d72abd3bc1e0a9c4925edb1
+
+Package: com.jtis.callassist15
+Version: 2.1.7
+Priority: optional
+Section: Tweaks
+Maintainer: JTIS Repo
+Description: Trợ lý cuộc gọi mạnh mẽ, Hỗ trợ thiết IOS 15.0 - 15.9
+Depends: firmware (>= 15.0), ellekit, preferenceloader,com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Name: Callassist15 (Roothide)
+Author: xybp888vh
+SileoDepiction: https://jtisvn.github.io/sileodepictions/callassist15.json
+Filename: debs/com.jtis.callassist15_2.1.7_iphoneos-arm64e.deb
+Size: 2446456
+MD5sum: 8242fac713e62502556d1128f34dec4d
+SHA256: de21a7da67eb438e89553570addffda75f16b114ab3f50d2139b51516667153a
+
+Package: com.jtis.callassist16
+Version: 1.7.2
+Priority: optional
+Section: Tweaks
+Maintainer: JTIS Repo
+Description: Trợ lý cuộc gọi mạnh mẽ, Hỗ trợ thiết IOS 16.0 - 16.5
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Name: Callassist16 (Roothide)
+Author: xybp888vh
+SileoDepiction: https://jtisvn.github.io/sileodepictions/callassist16.json
+Filename: debs/com.jtis.callassist16_1.7.2_iphoneos-arm64e.deb
+Size: 2752000
+MD5sum: cf83f396ef9a72d2f5c4f01b8924381f
+SHA256: 62c7b894e8cc350884061977e047dd31fa6b3bfbf3677d83fe68c57ab75cd8e3
+
+Package: com.jtis.cc26
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CC26.json
+Name: CC26 (Rootless)
+Description: Mang phong cách mới IO26 gọn gàng cho trung tâm điều khiển trên thiết bị của bạn.
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://jtisvn.github.io/sectionIcons/CC26.png
+Architecture: iphoneos-arm64
+Version: 0.4.1b
+Filename: debs/com.jtis.cc26_0.4.1b_iphoneos-arm64.deb
+Size: 12312
+MD5sum: 87fc118d8f3f6b046eb9be1ab1161fc0
+SHA256: 12614e77ef3fe4995de33edf36f254a235268cdc9b174eddeb925fd99476e464
+
+Package: com.jtis.cc26
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CC26.json
+Name: CC26 (Roothide)
+Description: Mang phong cách mới IO26 gọn gàng cho trung tâm điều khiển trên thiết bị của bạn.
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://jtisvn.github.io/sectionIcons/CC26.png
+Architecture: iphoneos-arm64e
+Version: 0.4.1b
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.cc26_0.4.1b_iphoneos-arm64e.deb
+Size: 13376
+MD5sum: 301aaa0b6ce331d2ef9b21479c07b105
+SHA256: 8b2724e101c1593c5c2ac924d3dc243e709fe1f5d0ef6c09bd5b9fec78eefb3f
+
+Package: com.jtis.cc26
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CC26.json
+Name: CC26 (Rootless)
+Description: Mang phong cách mới IO26 gọn gàng cho trung tâm điều khiển trên thiết bị của bạn.
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://jtisvn.github.io/sectionIcons/CC26.png
+Architecture: iphoneos-arm64
+Version: 0.4.9.9b
+Installed-Size: 220
+Filename: debs/com.jtis.cc26_0.4.9.9b_iphoneos-arm64.deb
+Size: 23652
+MD5sum: 5b78c081b1a4d288636e18e5547c5656
+SHA256: 3043867a5dc471e8b8d766aa175fb1d8b9291064e36abc102200d5458d069bd8
+
+Package: com.jtis.cc26
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/CC26.json
+Name: CC26 (Roothide)
+Description: Mang phong cách mới IO26 gọn gàng cho trung tâm điều khiển trên thiết bị của bạn.
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://jtisvn.github.io/sectionIcons/CC26.png
+Architecture: iphoneos-arm64e
+Version: 0.4.9.9b
+Installed-Size: 220
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.cc26_0.4.9.9b_iphoneos-arm64e.deb
+Size: 24772
+MD5sum: 496c9c365f415e62dc06165e3a2f9e01
+SHA256: 808b751a40b9c98d33297dddba028eb3daae061bfeaca47e9ef77a9b5dfd9909
+
+Package: com.jtis.copylogfix16 
+Name: CopyLogFix16 (Rootless)
+Description: Sửa lỗi tinh chỉnh Copylog không hoạt động trên thiết bị iOS16+
+Maintainer: JTIS Repo
+Icon: https://files.catbox.moe/aa1rb5.avif
+Author: 0xkuj
+Section: Tweaks
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Installed-Size: 168
+Filename: debs/com.jtis.copylogfix16_1.0.1_iphoneos-arm64.deb
+Size: 6412
+MD5sum: d3758c15bc1b58c0f45023e4777b5bfe
+SHA256: b6ab7bf1eccba123d474da32f5975fb119a7be80f2e6d57c4d4a96a6432bafe7
+
+Package: com.jtis.copylogfix16 
+Name: CopyLogFix16 (Roothide)
+Description: Sửa lỗi tinh chỉnh Copylog không hoạt động trên thiết bị iOS16+
+Maintainer: JTIS Repo
+Icon: https://files.catbox.moe/aa1rb5.avif
+Author: 0xkuj
+Section: Tweaks
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.copylogfix16_1.0.1_iphoneos-arm64e.deb
+Size: 7584
+MD5sum: 285869b56d0c92029680a49321a1ee4b
+SHA256: a48dccb9dda3cf7217202c392f96bb16e32763f28ff8bfb1ed402bb85556fb68
+
+Package: com.jtis.cozybadges
+Version: 2.2-2
+Section: Tweaks
+Maintainer: JTIS Repo
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Installed-Size: 496
+Name: CozyBadges (Rootless)
+Author: NoisyFlake、SINI
+SileoDepiction: https:/jtisvn.github.io/sileodepictions/CozyBadges.json
+Icon: https://jtisvn.github.io/sectionIcons/CozyBadges.png
+Description: Tweaks cho phép huy hiệu thông báo được thay đổi hiển thị bên dưới ứng dụng.
+Filename: debs/com.jtis.cozybadges_2.2-2.deb
+Size: 51096
+MD5sum: 0eacbb8b98e04f3f083878a5486b284f
+SHA256: aabb86dbda7ddc0984a6c8889746877a28a10b58ed5e883333b2ef0d59843a59
+
+Package: com.jtis.cozybadges
+Version: 2.2-2
+Section: Tweaks
+Maintainer: JTIS Repo
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Installed-Size: 496
+Name: CozyBadges (Roothide)
+Author: NoisyFlake、SINI
+SileoDepiction: https:/jtisvn.github.io/sileodepictions/CozyBadges.json
+Icon: https://jtisvn.github.io/sectionIcons/CozyBadges.png
+Description: Tweaks cho phép huy hiệu thông báo được thay đổi hiển thị bên dưới ứng dụng.
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.cozybadges_2.2-2_iphoneos-arm64e.deb
+Size: 54004
+MD5sum: 7141d8ab4ff7e788bbcd52c62a1480ee
+SHA256: 2de70b40907353cd9b4c71bf5892c2a1a72e44b9d0ea9d3de2c08ef5469ba9e4
+
+Package: com.jtis.cydiageek.roundprefs
+Architecture: iphoneos-arm64e
+Name: roundPrefs (Roothide)
+Version: 1.0.9
+Description: Bo tròn các khung trong ứng dụng cài đặt
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/roudPrefs.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.cydiageek.roundprefs_1.0.9_iphoneos-arm64e.deb
+Size: 59088
+MD5sum: 499c5a5d1b64cff6375f73fd1dc4b45d
+SHA256: 766bb79b76c5d4a7e6581853d990335f3d2146214e68c4d9306d51200c94fd4d
+
+Package: com.jtis.cydiageek.roundprefs
+Architecture: iphoneos-aảm64
+Name: roundPrefs (Rootless)
+Version: 1.0.9
+Description: Bo tròn các khung trong ứng dụng cài đặt
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/roudPrefs.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.cydiageek.roundprefs_1.0.9_iphoneos-aảm64.deb
+Size: 55948
+MD5sum: 1b9356f2eaa47718030f0846f85dd7bf
+SHA256: 8ceb70d8e5e161d16ac3aca8f9b5166e405f278ba11e023b4dce5b93626aa6cf
+
+Package: com.jtis.cylinderremade.roothide
+Version: 0.0.3-beta
+Architecture: iphoneos-arm64e
+Name: Cylinder Remade (Roothide)
+Description: Tuỳ biến hiệu ứng cuộn trên màn hình chính
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Author: Ryan Nalr
+Conflicts: com.ryannair05.cylinder
+Installed-Size: 604
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Cylinder-reborn.json
+Section: Tweaks
+Filename: debs/com.jtis.cylinderremade.roothide_0.0.3-beta_iphoneos-arm64e.deb
+Size: 106964
+MD5sum: 633b24fc5acb5ddb2d212f4d92301cb7
+SHA256: 7bac43803f4815bbe7e7badc5155d83e1e4b0dc6352903c875bb0349d1b315a5
+
+Package: com.jtis.dobbyshim
+Name: DobbyShim
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: JTIS Repo
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode, ellekit
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate, ellekit
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Author: Nathan, jmpews
+Section: Tweak Injection
+Priority: optional
+Description: DobbyHook Substrate Shim
+Filename: debs/com.jtis.dobbyshim_1.0.3_iphoneos-arm64.deb
+Size: 52088
+MD5sum: a5dfa58ffe0d3702a9961de5d003f233
+SHA256: 3c3e4929757bb77e3533f88433dd059e82042168372d481238f25b92a7509e7e
+
+Package: com.jtis.dockx
+Name: DockX (Roothide)
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Description: Thêm 1 số chức năng như dán nhanh trên thanh bàn phím
+Maintainer: JTIS Repo
+Author: udevs
+Section: Tweaks
+Conflicts: com.restiveconch.actionbar
+Icon: https://Jtisvn.github.io/sectionIcons/Dockx.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/DockX.json
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Installed-Size: 2036
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 425740
+MD5sum: c454c56d59c2b835f487aea82f9f0f22
+SHA256: b5825103612fdf9e2e3c3b3e62aea30d68bbfb03f046ebba3357f79925050663
+
+Package: com.jtis.eneko
+Name: Eneko (Rootless)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Chọn video làm nền màn hình cho IOS
+Maintainer: JTIS Repo
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4.2
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Eneko.json
+Installed-Size: 400
+Filename: debs/com.jtis.eneko_1.4.2_iphoneos-arm64.deb
+Size: 28580
+MD5sum: 8290c4b14898446d416e84d492fdd9ea
+SHA256: 8016cccadb17d99d6d988b10bdeb005ca4b24e0009438582f23ad0ebce48a78f
+
+Package: com.jtis.eneko
+Name: Eneko (Roothide)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Chọn video làm nền màn hình cho IOS
+Maintainer: JTIS Repo
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4.2
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Eneko.json
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.eneko_1.4.2_iphoneos-arm64e.deb
+Size: 29280
+MD5sum: e91e74827027c30bfd7a90ca23a39200
+SHA256: e5fad24255ad79f5e85b4e4c885df6b3aeccb2f907710fd69c1da131fcecb804
+
+Package: com.jtis.eneko
+Name: Eneko (Rootless)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Chọn video làm nền màn hình cho IOS
+Maintainer: JTIS Repo
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.4
+Installed-Size: 400
+Filename: debs/com.jtis.eneko_1.4_iphoneos-arm64.deb
+Size: 29500
+MD5sum: 87f0e4cb675aad5ad6e8b86d3924dfee
+SHA256: f44f1ead8962cac64a2186faeefe834996e7424a8a9b95c1256df1b2bdb3eec1
+
+Package: com.jtis.eneko
+Name: Eneko (Roothide)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Description: Chọn video làm nền màn hình cho IOS
+Maintainer: JTIS Repo
+Author: Traurige <hello@traurige.dev>
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.4
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.eneko_1.4_iphoneos-arm64e.deb
+Size: 31068
+MD5sum: 3d48b015c9c85537ec2decf1a623b08e
+SHA256: 73ac79b62d96ca45b20b318ac50ff330c8a54161be928d965ed2bcae3868474d
+
+Package: com.jtis.filzaui
+Version: 1.0
+Section: Chủ đề
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: Filza UI theme
+Author: Cypwn & OuniDesigns
+Description: Cài đặt chủ đề UI belle & helios cho ứng dụng Filza qua tinh chỉnh Snowboard cho IPhone của bạn
+SileoDepiction: https://jtisvn.github.io/sileodepictions/FilzaUI.json
+Icon: https://files.catbox.moe/w852v4.png
+Filename: debs/com.jtis.filzaui_1.0_iphoneos-arm64.deb
+Size: 527800
+MD5sum: 57a588ff212d3e32cdc1bcb81ebc782d
+SHA256: 02c9df7c87999f3169be5763cb5cb614832552d19957d9d39881d0e80e7888af
+
+Package: com.jtis.flow
+Name: Flow for Messenger
+Description: Chức năng tiện ích cho ứng dụng Messenger
+Maintainer: JTIS Repo
+Author: dvntm, nowesr1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://jtisvn.github.io/sectionIcons/FlowMerss.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/FlowMerss.json
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 532
+Filename: debs/com.jtis.flow_1.0_iphoneos-arm64.deb
+Size: 230120
+MD5sum: c52876d2532abcf37c05d44174840b83
+SHA256: 0290e9ebc053a60685df088ac0d72f0c961f71672167978c40e9c80a7d80900b
+
+Package: com.jtis.flow
+Name: Flow for Messenger
+Description: Chức năng tiện ích cho ứng dụng Messenger
+Maintainer: JTIS Repo
+Author: dvntm, nowesr1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://jtisvn.github.io/sectionIcons/FlowMerss.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/FlowMerss.json
+Architecture: iphoneos-arm64e
+Version: 1.0
+Installed-Size: 532
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.flow_1.0_iphoneos-arm64e.deb
+Size: 231064
+MD5sum: ed8bb91ca4ea6cabda37ec48e390b2b4
+SHA256: a7e9b6e3270fc565737475c1e339318d9d8e6ec9eee063a5ac0c3291c0ce3d58
+
+Package: com.jtis.fmwk.hookkit
+Name: HookKit Framework
+Depends: firmware (>= 8.0), com.jtis.fmwk.modulous, com.jtis.fmwk.rootbridge
+Architecture: iphoneos-arm64
+Description: An iOS developer framework for unified hooking methods.
+Maintainer: jjolano
+Author: jjolano
+Section: Development
+Tag: role::developer
+Version: 1.0.15
+Installed-Size: 172
+Filename: debs/com.jtis.fmwk.hookkit_1.0.15_iphoneos-arm64.deb
+Size: 12872
+MD5sum: 76f1df6026d10499237a811f5b1267a8
+SHA256: 2d9eaee469423a906b66e39f26522feca0028e34057b1547147b4b09d1c62906
+
+Package: com.jtis.fmwk.modulous
+Name: Modulous Framework
+Depends: firmware (>= 8.0)
+Architecture: iphoneos-arm64
+Description: An iOS developer framework for modular software.
+Maintainer: jjolano
+Author: jjolano
+Section: Development
+Tag: role::developer
+Version: 1.0.8
+Installed-Size: 168
+Filename: debs/com.jtis.fmwk.modulous_1.0.8_iphoneos-arm64.deb
+Size: 6016
+MD5sum: 2414669f63babea32a46a63ccaebc200
+SHA256: afe6a830c40b35aa8f5e0057a28b2b5112f4fddc8630c9e59fccdae238ed3fa8
+
+Package: com.jtis.fmwk.rootbridge
+Name: RootBridge Framework
+Depends: firmware (>= 8.0)
+Architecture: iphoneos-arm64
+Description: An iOS developer framework for rootless tweak development.
+Maintainer: jjolano
+Author: jjolano
+Section: Development
+Tag: role::developer
+Version: 1.0.1
+Installed-Size: 168
+Filename: debs/com.jtis.fmwk.rootbridge_1.0.1_iphoneos-arm64.deb
+Size: 3916
+MD5sum: d75230388f405f3db678e0e57ddcf7ea
+SHA256: 19dde4b120ad84a13946c56c0efee7e83fb30ec2460f6d723fdf34d2d7f603de
+
+Architecture: iphoneos-arm64
+Package: com.jtis.fontedgy-rootless
+Name: Font Edgy
+Version: 1.0
+Icon: https://Jtisvn.github.io/sectionIcons/font3.png
+Description: Sử dụng phông chữ bằng cách kích hoạt qua Snowboard 16
+Homepage: https://alo.works/
+Section: Fonts
+Depends: firmware (>=14.0)
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Hà Tía Tô
+Maintainer: JTIS Repo
+Filename: debs/com.jtis.fontedgy-rootless_1.0_iphoneos-arm64.deb
+Size: 4954504
+MD5sum: 69eb37988d7210a62b075202cd265c7d
+SHA256: cac18b0415adabc2484e5fa20a9c5f2ee7067ba53f4bb26e57da5a874b48647c
+
+Architecture: iphoneos-arm64
+Package: com.jtis.fontlobstertwo-rootless
+Name: Font Lobster Two
+Version: 1.0
+Icon: https://Jtisvn.github.io/sectionIcons/font.png
+Description: Sử dụng phông chữ bằng cách kích hoạt qua Snowboard
+Homepage: https://alo.works/
+Section: Fonts
+Depends: firmware (>=14.0)
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: Pablo Impallari
+Maintainer: JTIS Repo
+Filename: debs/com.jtis.fontlobstertwo-rootless_1.0_iphoneos-arm64.deb
+Size: 818884
+MD5sum: bc16a54f3167fe7255c912185d985333
+SHA256: 6d09c88a392adf042dc7a07a3b291a7cd9da77d9281440df6b7f8bcc93f36571
+
+Architecture: iphoneos-arm64
+Package: com.jtis.fontuandilove-rootless
+Name: Font U and I Love
+Version: 1.0
+Icon: https://Jtisvn.github.io/sectionIcons/font2.png
+Description: Sử dụng phông chữ bằng cách kích hoạt qua Snowboard 
+Homepage: https://alo.works/
+Section: Fonts
+Depends: firmware (>=14.0)
+Tags: compatible_min::ios14.0, compatible_max::ios16.6.1
+Author: TQM
+Maintainer: JTIS Repo
+Filename: debs/com.jtis.fontuandilove-rootless_1.0_iphoneos-arm64.deb
+Size: 467768
+MD5sum: 2d183568ea98d6ece6aebfa987d716ce
+SHA256: e7e64a3c7652d2325d4f2f21ab3ce2e39c22f3bd8ed24a8b23c167c597c6797f
+
+Package: com.jtis.gesturesxv
+Name: GesturesXV (Roothide)
+Description: Mang thao tác vuốt của iPhone X lên các dòng iPhone đời cũ chạy iOS 15.
+Maintainer: JTIS Repo
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.6
+Installed-Size: 2756
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.gesturesxv_1.6_iphoneos-arm64e.deb
+Size: 2162916
+MD5sum: 98df83f4bd7d12aefc0cebc95dc8499f
+SHA256: fe5ac75ec6c9335849b7338a812f27104c11f30ac85b1579b4debf82c39d4a4f
+
+Package: com.jtis.hammerit
+Name: Hammer It
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Description: Dịch văn bản, hình ảnh theo ý chả bạn.
+Maintainer: JTIS Repo
+Author: SquidForce
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.5.0
+Installed-Size: 2288
+Filename: debs/com.jtis.hammerit_1.5.0_iphoneos-arm64e (1).deb
+Size: 436764
+MD5sum: cc6ba167233c5f549fd866ff6243a226
+SHA256: 67236cb88a7d59f312891cb58ae609b40adf9ed521ce0767eb91dcc69f1a4877
+
+Package: com.jtis.hammerit
+Name: Hammer It
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Description: Control your text or translate as you wish.
+Maintainer: JTIS Repo
+Author: SquidForce
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.5.0
+Installed-Size: 2288
+Filename: debs/com.jtis.hammerit_1.5.0_iphoneos-arm64e.deb
+Size: 436748
+MD5sum: 244cbde37be6acc5f60461788999c747
+SHA256: ac0a5b29c45bed17418e5412253a75c755b59b4a3e7e14d31ac9a446250cc1f7
+
+Package: com.jtis.hkmodule.substrate
+Name: HookKit Module (Cydia Substrate)
+Pre-Depends: com.jtis.fmwk.hookkit
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: This module provides the Cydia Substrate API for HookKit Framework.
+Maintainer: jjolano
+Author: jjolano
+Section: Development
+Version: 1.0.8
+Installed-Size: 168
+Filename: debs/com.jtis.hkmodule.substrate_1.0.8_iphoneos-arm64.deb
+Size: 3944
+MD5sum: 93bbd75458ab309277425f4204b3e24e
+SHA256: 5c6815cf87c875e943f252ca664e230378c5d5275bf6124c07be8644b00ac65c
+
+Package: com.jtis.iamlazy
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Section: Applications
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Author: Lightmann <lightmanns11@gmail.com>
+Installed-Size: 542
+Depends: apt, uikittools, firmware (>= 13.0)
+Conflicts: me.lightmann.iamlazy-cli
+Name: IAmLazy (Rootless)
+Description: Sao lưu và khôi phục các Tweaks đã cải đặt.
+Icon: https://Jtisvn.github.io/sectionIcons/Iamlazy.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Iamlazy.json
+Tag: compatible_min::ios13.0
+Filename: debs/com.jtis.iamlazy_2.6.2_iphoneos-arm64.deb
+Size: 196408
+MD5sum: 93def7925d038c1519428bb490a57c44
+SHA256: 02810cbc5584d31ca8e2b80b54d83e8384cc96c8a249e4f68dd6c9f57f12b8a8
+
+Package: com.jtis.icatch
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Icatch.json
+Icon: https://repo.cypwn.xyz/packages/iCatch-Rootless/icon.png
+Name: iCatch (Roothide)
+Description: Tải xuống file.deb khi cài đặt tweak kèm gói từ Sileo và Zebra trực tiếp vào Filza
+Author: DeNsor
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.1-120
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.icatch_1.1-120_iphoneos-arm64e.deb
+Size: 30820
+MD5sum: 25ad58348ae7f0d8ee07692a28306305
+SHA256: cccfebd711a64e5eb0f93a780bcff38033a566c1fd0cdd90a63ae5639dcb4e04
+
+Package: com.jtis.kayoko-roothide
+Name: Kayoko (Roothide)
+Description: Trình quản lý clipboard, tương tự như Copylog và NicelogX.
+Maintainer: JTIS Repo
+Author: Alexandra Aurora Göttlicher
+Section: Tweaks
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Kayoko.json
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Architecture: iphoneos-arm64e
+Version: 2.7
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.kayoko-roothide_2.7_iphoneos-arm64e.deb
+Size: 128804
+MD5sum: edfaa3640e1feda9efd23497b7233efe
+SHA256: 7068f2008baa96a29572cd7670bf9aa2f16cd5c4a97d38dcaddad8ea10e043a5
+
+Package: com.jtis.lynxroothide
+Maintainer: Bvn Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/lynx.json
+Icon: https://Jtisvn.github.io/sectionIcons/lynx.png
+Name: Lynx 2 (Roothide)
+Architecture: iphoneos-arm64e
+Description: Tùy chỉnh tối ưu cho thiết bị iOS 15-16
+Author: MTAC
+Section: Tweaks
+Conflicts: com.mtac.lynxapp, xyz.cypwn.lynxapp
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Version: 2.5.4
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.lynxroothide_2.5.4_iphoneos-arm64e.deb
+Size: 1261816
+MD5sum: dafb75e5999bbadbc30b0e3bc54ee1c4
+SHA256: ba2a0030a48ad8004a2e44338b94feecc7339235904ebe643faa681442ee63f9
+
+Package: com.jtis.ocd
+Version: 5.4.1.1
+Section: Tweaks
+Maintainer: JTIS Repo
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Architecture: iphoneos-arm64e
+Description: OCD Tuỳ chỉnh màu sắc biểu tượng và huy hiệu
+Name: OCD (Roothide)
+Author: b4db1r3
+SileoDepiction: https://jtisvn.github.io/sileodepictions/OCD.json
+Icon: https://jtisvn.github.io/sectionIcons/OCD.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.ocd_5.4.1.1_iphoneos-arm64e.deb
+Size: 329932
+MD5sum: b24e67cca7b4c47f155b745bb6990084
+SHA256: ea6dafac3dc5ae630e6c7169663080c97b4b40b95f34720df896495a60d87982
+
+Package: com.jtis.oledkeyboard
+Name: OledKeyboard (Rootless)
+Description: Thêm chế độ tối Oled cho bàn phím trên thiết bị IOS.
+Maintainer: JTIS Repo
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 152
+Icon: https://jtisvn.github.io/sectionIcons/OledKeyboard.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/OledKeyboard.json
+Filename: debs/com.jtis.oledkeyboard_0.0.3_iphoneos-arm64.deb
+Size: 4720
+MD5sum: c3c1425c27138f25066d1531957c4fae
+SHA256: 81a417c82908a6313323e0b1859986a3a8d122f43d6119ef11933c84a27f87db
+
+Package: com.jtis.oledkeyboard
+Name: OledKeyboard (Roothide)
+Description: Thêm chế độ tối Oled cho bàn phím trên thiết bị IOS.
+Maintainer: JTIS Repo
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Installed-Size: 152
+Icon: https://jtisvn.github.io/sectionIcons/OledKeyboard.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/OledKeyboard.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Size: 5796
+MD5sum: 28b71b339cb1f2bec370cd562593f192
+SHA256: 7cad62f244b68d7b55f9d4852a6501688bda54979dd72964644a8855fbc0c0ce
+
+Package: com.jtis.picsart
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Section: Mở khoá ứng dụng
+Maintainer: JTIS Repo
+Author: Lang Khach
+Installed-Size: 1049
+Icon: https://jtisvn.github.io/sectionIcons/Picsart.png
+Depends: mobilesubstrate
+Conflicts: com.jtis.picsart-rootless
+Name: PicsArt Gold
+Description: Kích hoạt gói Gold cho ứng dụng PicsArt-hỗ trợ phiên bản mới nhất.
+SileoDepiction: https://jtisvn.github.io/sileodepictions/PicsartGold.json
+Filename: debs/com.jtis.picsart_1.0.2_iphoneos-arm64.deb
+Size: 9068
+MD5sum: cc6acc54abd25c9d5650a2ea81f7a05f
+SHA256: f96171b2bfe3f51c0d9719096181e32c168e02898cd0ff7c3a1864cac2354eff
+
+Package: com.jtis.primedeck
+Name: PrimeDeck (Roothide)
+Description: Điều khiển trình chuyển đổi và khoá ứng dụng của bạn trong đa nhiệm
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: com.opa334.altlist, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Installed-Size: 1000
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: debs/com.jtis.primedeck_1.3.0_iphoneos-arm64e.deb
+Size: 541912
+MD5sum: 97934e20f1bcfd221a4ddee0bcc85bbd
+SHA256: 4b581063d2ee210c95c2ecfcddb27deae7c94d3eab780f269a94461b4faf1afc
+
+Package: com.jtis.sentinel
+Name: Sentinel (Roothide)
+Version: 1.3.2
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Installed-Size: 752
+Author: MegaDev
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Sentinel.json
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a
+Description: Ngắn chặn mất Jailbreak khi thiết bị của bạn hết pin hoặc sập nguồn.
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.sentinel_1.3.2_iphoneos-arm64e.deb
+Size: 79376
+MD5sum: 41911f20024a6baab645ec43250dec20
+SHA256: 658c2c43059d63eaa51a28b4f015cd8211ddc3116258687f743aa16af329efff
+
+Package: com.jtis.sentinel
+Name: Sentinel (Rootless)
+Version: 1.3.2
+Section: Tweaks
+Architecture: iphoneos-aảm64
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,com.opa334.ccsupport
+Installed-Size: 752
+Author: MegaDev
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Sentinel.json
+Icon: https://media.havoc.app/620e286f62d8a0bb3788377a
+Description: Ngắn chặn mất Jailbreak khi thiết bị của bạn hết pin hoặc sập nguồn.
+Filename: debs/com.jtis.sentinel_1.3.2_iphoneos-aảm64.deb
+Size: 78040
+MD5sum: c789f12d37a88678238991b68fd22b15
+SHA256: 4b01a437bd8cf1c54d9090a59042ee382d85bb51e3c5342085a5e848ce7227bf
+
+Package: com.jtis.settingMeizu3D
+Version: 1.0
+Section: Chủ đề
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: Setting Meizu 3D
+Author: Miss
+Description: Chủ đề setting Meizu 3D 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/setting3dmeizu.json
+Icon: https://jailbreaktrolliossupport.github.io/depictions/sectionIcons/dich.png
+Filename: debs/com.jtis.settingMeizu3D_1.0_iphoneos-arm64.deb
+Size: 366228
+MD5sum: 32f46adaf81f22562d36fa597c0f9a65
+SHA256: d3d17c323fa66a91b410acebd1141a782ac22803669697947deeb2cc71433d34
+
+Package: com.jtis.settingswifipassword
+Maintainer: JTIS Repo
+SileoDepiction: https://jtisvn.github.io/sileodepictions/SettingsWiFiPassword.json
+Name: SettingsWiFiPassword (Rootless)
+Description: Cho phứp sao chép mặt khẩu Wifi trong cài đặt ừng dụng trên IOS 15 trở xuống.
+Author: Nightwind
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 16.0)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Filename: debs/com.jtis.settingswifipassword_0.0.1_iphoneos-arm64.deb
+Size: 8204
+MD5sum: 8008d57234e325f857a1f79428c77888
+SHA256: 6238f7385dd72fb6988a857cbf59923421f6e539ff04caf7c7ab5635ce67015d
+
+Package: com.jtis.shadow
+Name: Shadow (Rootless)
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, com.jtis.fmwk.hookkit, com.jtis.hkmodule.substrate, com.jtis.fmwk.rootbridge
+Suggests: com.ps.injectionfoundation
+Recommends: mobilesubstrate, preferenceloader, com.jtis.hkmodule.fishhook
+Provides: com.jtis.shadow.beta
+Replaces: com.jtis.shadow.beta
+Conflicts: com.jtis.shadow.beta, com.jtis.shadow.legacy
+Description:Công cụ giúp chặn phát hiện jailbreak cho các ứng dụng.
+Maintainer: jjolano
+Author: jjolano
+Section: Ần Jailbreak
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Shadow.json
+Architecture: iphoneos-arm64
+Version: 3.7.6
+Installed-Size: 1076
+Filename: debs/com.jtis.shadow_3.7.6_iphoneos-arm64.deb
+Size: 102812
+MD5sum: 1b8b3aa60fd215f3158706ec7e74edc4
+SHA256: fa5e6a799adadfecbd00cc07cd182adeb3b12ce7ee450419ffa82abcef1e121e
+
+Package: com.jtis.shuffle-rootless
+Name: Shuffle (Rootless)
+Author: CreatureSurvive
+Description: Shuffle
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Maintainer: JTIS Repo
+Version: 1.6.2
+Section: Tweaks
+Architecture: iphoneos-arm64
+Installed-Size: 596
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Shuffle.json
+Filename: debs/com.jtis.shuffle-rootless_1.6.2_iphoneos-arm64.deb
+Size: 250160
+MD5sum: 8a424787c2fd6af3393d78e269f025b5
+SHA256: aa6934306f395a8413a024f0ba1a98cfdeea713702157718fe52709fd54edc5e
+
+Package: com.jtis.shuffle
+Name: Shuffle (Roothide)
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Description: Phân chia các mục trong cài đặt.
+Maintainer: JTIS Repo
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Shuffle.json
+Tag: purpose::extension, compatible_min::ios10
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Architecture: iphoneos-arm64e
+Version: 1.6.2
+Installed-Size: 1484
+Filename: debs/com.jtis.shuffle_1.6.2_iphoneos-arm64e.deb
+Size: 257316
+MD5sum: 3ecae125a4af5412eb2420fc2ff9413a
+SHA256: cee00765dc251e2dd6b4514d47e6a43d9b6c8295d89e1663ee5708001409bfeb
+
+Package: com.jtis.snapper3
+Maintainer: JTIS Repo
+Name: Snapper 3 Crack (Roothide)
+Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
+Conflicts: com.kitsudo.snapper, com.kitsudo.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
+Description: Snapper 3 là công cụ chụp ảnh màn hình có nhiều chức năng cho thiết bị của bạn.
+Author: Jonathan Winger-lang
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.0
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.snapper3_1.0_iphoneos-arm64e.deb
+Size: 920744
+MD5sum: ab82a86283e13c4ec197e56c50bc0ca9
+SHA256: 52e4b53de5902fa55dcba9d4ecb828a8d32dbf16f61f8a537c93b77c5fe6f485
+
+Package: com.jtis.sonus15
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Sonus15.json
+Icon: https://jtisvn.github.io/sectionIcons/Sonus15.png
+Section: Tweaks
+Installed-Size: 720
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Description: Điều chỉnh giao điện tối ưu âm lượng. Hỗ trợ IOS 15+
+Name: Sonus15 (Rootless)
+Author: ubik
+Filename: debs/com.jtis.sonus15_1.0.5_iphoneos-arm64.deb
+Size: 119896
+MD5sum: 68c9b018e5501af0d7744587a8aae799
+SHA256: 8b17fde5aee9bd2e083e4277be1c07fb22e0a5774a2f53ae6392f1d87efca402
+
+Package: com.jtis.sonus15
+Maintainer: JTIS Repo 
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Sonus15.json
+Icon: https://jtisvn.github.io/sectionIcons/Sonus15.png
+Section: Tweaks
+Installed-Size: 720
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Description: Điều chỉnh giao điện tối ưu âm lượng. Hỗ trợ IOS 15+
+Name: Sonus15 (Roothide)
+Author: ubik
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.sonus15_1.0.5_iphoneos-arm64e.deb
+Size: 121900
+MD5sum: d1b3371a21fcf53edbb8fdaedc2093be
+SHA256: 6e5127b336942729549bf55b1e3d3d72ac84c38de17a0da9cd5d27da8fd59ea5
+
+Package: com.jtis.stealthcc
+Name: StealthCC (Rootless)
+Description: Điều chỉnh chế độ trong suốt trung tâm điều khiên
+Maintainer: JTIS Repo
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+SileoDepiction: https://jtisvn.github.io/sileodepictions/StealthCC.json
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Installed-Size: 364
+Filename: debs/com.jtis.stealthcc_0.9.0_iphoneos-arm64.deb
+Size: 21452
+MD5sum: 463f361e5ed809fc661b8607a7863277
+SHA256: b0f8d4eb381ae005060d1232133e7f8f88bf7b106bb2202da5ba5f4337d48f96
+
+Package: com.jtis.stealthcc
+Name: StealthCC (Roothide)
+Description: Điều chỉnh chế độ trong suốt trung tâm điều khiên
+Maintainer: JTIS Repo
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+SileoDepiction: https://jtisvn.github.io/sileodepictions/StealthCC.json
+Architecture: iphoneos-arm64e
+Version: 0.9.0
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.stealthcc_0.9.0_iphoneos-arm64e.deb
+Size: 23368
+MD5sum: 49e8ec2326b3a348488a5c74253ed74a
+SHA256: f8daff366a0feff4f868806ab0fd4119d114f54698e9ae15a31df5c9e221ea92
+
+Package: com.jtis.sugarcane
+Name: SugarCane 12-16 (Rootless)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Description: Thêm % cho modun Độ sáng & Âm lượng trên trung tâm diều khiển.
+Maintainer: JTIS Repo
+Author: iOS Creatix, kasiimh1, p2kdev
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2.4.4
+Installed-Size: 172
+SileoDepiction: https://jtisvn.github.io/sileodepictions/SugarCare.json
+Filename: debs/com.jtis.sugarcane_1.2.4.4_iphoneos-arm64.deb
+Size: 8332
+MD5sum: 2141b3455be2c1eef1e1a95d8b0af8b4
+SHA256: da33013eeb24077fed995442eb99d82b51e9829f260cd1f7df02aa7faf2dd7ea
+
+Package: com.jtis.sugarcane
+Name: SugarCane 12-16 (Roothide)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Description: Thêm % cho modun Độ sáng & Âm lượng trên trung tâm diều khiển.
+Maintainer: JTIS Repo
+Author: iOS Creatix, kasiimh1, p2kdev
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 1.2.4.4
+Installed-Size: 172
+SileoDepiction: https://jtisvn.github.io/sileodepictions/SugarCare.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.sugarcane_1.2.4.4_iphoneos-arm64e.deb
+Size: 9344
+MD5sum: 21e9aa9592eaca615d9df0d21cadc7b8
+SHA256: cc16701f88b6a8700c657b65552950d7d6318d79e7fbcf4f5871910af7991938
+
+Package: com.jtis.switchtheme
+Name: Switch DayNight (Rootless)
+Description: Mang đến phong cách nút On/Off ngày & đêm trên thiết bị của bạn.
+Maintainer: baiy（qq：961666883））
+Author: 白衣
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 272
+Icon: https://axs66.github.io/repo/icon/switchtheme.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Switchthemes.json
+Filename: debs/com.jtis.switchtheme_1.0.0_iphoneos-arm64.deb
+Size: 37480
+MD5sum: 8bf3637704e26c23a8ab613a85d65b81
+SHA256: 2314d544b90e43843fae2ef94249159a6439a1bf8e5592578da9085af4b54ad5
+
+Package: com.jtis.switchtheme
+Name: Switch DayNight (Roothide)
+Description: Mang đến phong cách nút On/Off ngày & đêm trên thiết bị của bạn.
+Maintainer: baiy（qq：961666883））
+Author: 白衣
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Installed-Size: 272
+Icon: https://axs66.github.io/repo/icon/switchtheme.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Switchthemes.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.switchtheme_1.0.0_iphoneos-arm64e.deb
+Size: 38548
+MD5sum: e2f41910a54bf4d6ebf490f4acd25313
+SHA256: 0ac80137d25a3a8e9f01678a4552c2b069e4b7e7a0d41c8edb20ec8e8ac08070
+
+Package: com.jtis.tgextra
+Name: TGExtra(RootHide)
+Description: Thêm các chức năng tiện ích cho ứng dụng Swiftgram
+Maintainer: waruhachi
+Section: Tweaks
+Icon: https://i.imgur.com/OKvuaJN.jpeg
+SileoDepiction: https://jtisvn.github.io/sileodepictions/TGExtra.json
+Conflicts: com.choco.tg
+Architecture: iphoneos-arm64e
+Version: 1.2-1
+Filename: debs/com.jtis.tgextra_1.2-1_iphoneos-arm64e.deb
+Size: 4652776
+MD5sum: f9ae0676e34d7b86ec23510da29d28c9
+SHA256: c3d1912123b35cd4cbc6349e173c7ae5c12aea6ee0fdf266f5428cecb5b05d91
+
+Architecture: iphoneos-arm64
+Package: com.jtis.trim
+Name: Trim (Rootless)
+Version: 0.0.2
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Trim.json
+Icon: https://jtisvn.github.io/sectionIcons/Trim.png
+Description: Fix lỗi tỉ lê khung hình sau khi fake cử chỉ X trên thiết nút home đời thấp.
+Homepage: https://shuga.co/
+Section: Tweaks
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+Author: iGerman <igerman@igerman.cc>
+Maintainer: iGerman <igerman@igerman.cc>
+Filename: debs/com.jtis.trim_0.0.2_iphoneos-arm64.deb
+Size: 13780
+MD5sum: a3a79602c2c56d99f6607a6a5924131a
+SHA256: 402dc7cf1fdb46b57136ac3c6439a26fd442c71ae875c730866975ba999118ec
+
+Architecture: iphoneos-arm64e
+Package: com.jtis.trim
+Name: Trim (Roothide)
+Version: 0.0.2
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Trim.json
+Icon: https://jtisvn.github.io/sectionIcons/Trim.png
+Description: Fix lỗi tỉ lê khung hình sau khi fake cử chỉ X trên thiết nút home đời thấp.
+Homepage: https://shuga.co/
+Section: Tweaks
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Tags: compatible_min::ios15.0, compatible_max::ios15.4.1
+Author: iGerman <igerman@igerman.cc>
+Maintainer: iGerman <igerman@igerman.cc>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.trim_0.0.2_iphoneos-arm64e.deb
+Size: 15792
+MD5sum: e0b75628f6e7bdd3903036718e4e9d77
+SHA256: f4ff9ce523cbf79e8c1022a5ebc581f6656fc677dbed8d322e0633c132f79dc5
+
+Package: com.jtis.vizagevh
+Name: Vizage Gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Vizage -Chỉ ap dụng cho tweak đã thanh toán trên nguồn Havoc.
+Maintainer: JTIS Repo
+Author: JTIS Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Installed-Size: 36568
+Filename: debs/com.jtis.vizagevh_1.0.2_iphoneos-arm64.deb
+Size: 1636
+MD5sum: 09662050ab6337fe70a6f30be47372b0
+SHA256: 84c88e028288ec9d7eabcadbfc4c45701ccb05fccdf6c5429d05fedf26418b53
+
+Package: com.jtis.vizagevh
+Name: Vizage Gói Việt Hoá (Roothie)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Vizage -Chỉ ap dụng cho tweak đã thanh toán trên nguồn Havoc.
+Maintainer: JTIS Repo
+Author: JTIS Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.jtis.vizagevh_1.0.2_iphoneos-arm64e.deb
+Size: 2104
+MD5sum: e8e979b5f5ea1d33bc02f6ede4fbd4a1
+SHA256: e73c6deda080165359c32c6418578233ebf7b2e96c8e9aa892a8d37e46b95dec
+
+Package: com.jtisRingMask
+Version: 1.0
+Section: Chủ đề
+Maintainer: JTIS Repo
+Architecture: iphoneos-arm64
+Name: RingMask
+Author: p0s3id0n
+Description: Cài đặt MaskAE qua tinh chỉnh Snowboard cho IPhone của bạn
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Themeringmask.json
+Icon: https://jtisvn/jtisvn.github.io/features/Goku.png
+Filename: debs/com.jtisRingMask_1.0_iphoneos-arm64.deb
+Size: 1759564
+MD5sum: 9e1b07eed1ff55bf57fc4adf151a84c2
+SHA256: bdb72ea6c39fe9c20f0c78a84aa490f47bb3a3e6193f9d4115e19140154d854a
+
+Package: com.kitsudo.axom
+Name: Axon Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Axon
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.axom_1.0_iphoneos-arm64e.deb
+Size: 2708
+MD5sum: a663cd32cbfd0d68882b93d669e8603b
+SHA256: ae921a8b048038eae42924f27c8127837440f84b5a47cbb2532e6fb0bd26b28a
+
+Package: com.kitsudo.axon
+Name: Axon gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Axon
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.5
+Installed-Size: 36568
+Filename: debs/com.kitsudo.axon_1.5_iphoneos-arm64.deb
+Size: 2256
+MD5sum: dd6d1aff8799073e60c2652805672576
+SHA256: fbdefa1bd3c067b55d1dc38bb7924f403dc39b45583a8bcf0fd03542adef05d6
+
+Package: com.kitsudo.choicy 
+Name: Choicy Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Choicy
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.choicy_1.0_iphoneos-arm64e.deb
+Size: 4468
+MD5sum: 42c358fe9f7ff7ed66866567483d2aaf
+SHA256: e007fd0f46083a3c31baa8b7c2c1e51142e3b96c13bb03b8d509e139c5b4da9e
+
+Package: com.kitsudo.choicy
+Name: Choicy gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Choicy 
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.5.2-2
+Installed-Size: 36568
+Filename: debs/com.kitsudo.choicy_1.5.2-2_iphoneos-arm64.deb
+Size: 3988
+MD5sum: 125b70a63b8bb244a46484b5c7e640ad
+SHA256: 180284951e0323944def64fc8bf8635b11386aaaf7774d86970e52a5479810a7
+
+Package: com.kitsudo.dockx
+Name: Dock X gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Dock X
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.dockx_1.0_iphoneos-arm64.deb
+Size: 8732
+MD5sum: 62f1338feb903af7aa637166509761c9
+SHA256: 164d152666f8c15828112dff5c13f893454fe86498b50481f291a5ad7c5d37ad
+
+Package: com.kitsudo.hammerit
+Version: 1.0
+Section: Gói
+Maintainer: JTIS Repo
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0), com.jtis.hammerit
+Architecture: iphoneos-arm64
+Installed-Size: 3808
+Name: Hammer It Gói Việt Hoá (Rootless)
+Author: Jtis Repo
+Description: Patch Tiếng Việt cho tweak HammerIT
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.hammerit_1.0_iphoneos-arm64.deb
+Size: 6400
+MD5sum: 57b655fe471cb71d35f9e92c91427dec
+SHA256: 4260f7904f3942327288fbf51ff366f5cc35afe1a24939320d6a2b679e3ccbe8
+
+Package: com.kitsudo.laetus
+Name: Laetus (Roothide)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker (>= 1.0.1)
+Description: Tuỳ chỉnh bàn phím vượt trội và đổi chủ đề da dạng (bản VIệt Hoá)
+Maintainer:JTIS Repo
+Author: Spark
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 3.5.1
+Installed-Size: 1828
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.laetus_3.5.1_iphoneos-arm64e.deb
+Size: 838992
+MD5sum: cc7e2c8663c76dabda31c8aa553a0b49
+SHA256: ed1826e69219fcfee59f986ce42cfe01c71eda63e00e67b6c1288936cdf7175e
+
+Package: com.kitsudo.norredirect
+Name: No Redirect gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak No Redirect
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.norredirect_1.0_iphoneos-arm64.deb
+Size: 3280
+MD5sum: 10416e63aadd99c6a56e96577e0b3d00
+SHA256: a81322d7c1597fb47ad2f5568e0b7a75ce42d5f3719af9274b0534bd647d04b1
+
+Package: com.kitsudo.norredirect 
+Name: No Redirect Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak No Redirect
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói 
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.norredirect_1.0_iphoneos-arm64e.deb
+Size: 3796
+MD5sum: b180fce8deeddfd1fd5ed3278ac3f29f
+SHA256: 9fe0dbe1ed96930f82babd5979ed0795dd47c6109d71880edb4cfee99fcf84e0
+
+Package: com.kitsudo.pulloverpro
+Name: FullOver Pro gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak FullOver Pro
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.pulloverpro_1.0_iphoneos-arm64.deb
+Size: 2312
+MD5sum: 88ab573462be08a4202c1a0b99e9c016
+SHA256: 123baf718190078d244bf1af3d0901da5cb963c85fb809e402972cd4e3ca09cb
+
+Package: com.kitsudo.pulloverpro
+Name: PullOver Pro Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak PullOverPro
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.pulloverpro_1.0_iphoneos-arm64e.deb
+Size: 2764
+MD5sum: 86cee45db0221473ae90e28faa8caaf6
+SHA256: 688db4d85bf158fa477d91ffd4e828f39c434894b3fcd94f9a2b98e4d21853be
+
+Package: com.kitsudo.safarix
+Name: Safari X gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Safari X
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.safarix_1.0_iphoneos-arm64.deb
+Size: 2764
+MD5sum: d81428f922acbf2f1857c20d18ab0903
+SHA256: 4e43e58c595fbcc67c43260a4f557f6aa5e9709aa53934db05795c14aca99301
+
+Package: com.kitsudo.safarix
+Name: Safari X Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Safari X
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.safarix_1.0_iphoneos-arm64e.deb
+Size: 3216
+MD5sum: cc9c09466aadace65d25afbbda98c02e
+SHA256: 4bac4fb2073344bb3aae50c13a5cc01ee6354e6cf7f3bdbdbb02c28e8fac712a
+
+Package: com.kitsudo.settingsrevamp
+Name: SettingsRevamp gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak SettingsRevamp
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.settingsrevamp_1.0_iphoneos-arm64.deb
+Size: 2740
+MD5sum: 74c49a43578b8221d66cbecb85069bc7
+SHA256: 87407a13833c54770ef2ba6c23a4964b172397fbef815e9914b211244a9d6db8
+
+Package: com.kitsudo.settingsrevamp
+Name: SettingsRevamp Gói Việt Hoá (Roothide) 
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Settingsrevamp
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.settingsrevamp_1.0_iphoneos-arm64e.deb
+Size: 3376
+MD5sum: 08a64c536165fc847b56b0dcf5895b8d
+SHA256: 75fe5f6b87d01f7f128a2df0d1ae22d8097e9f6e537f1316ceb6a7a03e28fbf3
+
+Package: com.kitsudo.snowboard
+Name: Snowboard gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Snowboard 
+Maintainer: JTIS Repo
+Depends: mobilesubstrate
+Author: Jtis Repo
+Section: Gói
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.snowboard_1.0_iphoneos-arm64.deb
+Size: 4448
+MD5sum: e0d7dd7f3a2ff2807f03c1b48135e52e
+SHA256: 44b4a1106b84615aee5f819a37fc60ceed645bb874e9d179a7437c17c7cc4508
+
+Package: com.kitsudo.snowboard 
+Name: Snowboard Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Snowboard 
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.snowboard_1.0_iphoneos-arm64e.deb
+Size: 5020
+MD5sum: 270901e8a913f2847469a11da6361cef
+SHA256: 48d0b80676876380f1b7f1bfd44f42b493a38a0f72ea0e93df2fc177466f4c1a
+
+Package: com.kitsudo.touchviz
+Name: Touch-Viz gói Việt Hoá (Rootless)
+Description: Patch Tiếng Việt cho tweak Touch viz
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói
+Depends: mobilesubstrate 
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 36568
+Filename: debs/com.kitsudo.touchviz_1.0_iphoneos-arm64.deb
+Size: 2316
+MD5sum: 000e694dc16f3b654d87ec3c819afbe9
+SHA256: 44ec4ac7d039c0af6182875659361b2aa82c4dc0064b82a08f77bb24197b95bb
+
+Package: com.kitsudo.touchviz
+Name: Touch-Viz Gói Việt Hoá (Roothide)
+Description: Thêm ngôn ngữ Tiếng Việt cho tweak Touch-viz
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Gói 
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm64e
+Version: 1.0
+Icon: https://jtisvn.github.io/sectionIcons/goiviethoa.png
+Installed-Size: 36568
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.kitsudo.touchviz_1.0_iphoneos-arm64e.deb
+Size: 2804
+MD5sum: 2c7d0f1dd871f58e31310a5ee1afd01f
+SHA256: 4dfb7fdd58ed7cb56e23226d9227dfb1310ac4594747c2bb7d638f0ae609c815
+
+Architecture: iphoneos-arm64
+Author: Lang khach
+Depends: mobilesubstrate
+Description: Kích hoạt gói cao cấp ứng dụng AdBlockPro
+Maintainer: JTIS Repo
+Name: AdblockPro
+Package: com.langkhach.adblockpro
+Section: Mở khoá ứng dụng
+Version: 0.0.1
+Installed-Size: 172	.dragon/_
+Icon: https:/jtisvn.github.io/sectionIcons/AdBlockPro.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AdBlockPro.json
+Filename: debs/com.langkhach.adblockpro_0.0.1_iphoneos-arm64.deb
+Size: 8600
+MD5sum: 5cccb003a2b4f0f61eacb4412b1e55c2
+SHA256: 8157bb1765a952b360737e2da7e03d738de207c8483c96bff5b6d0d136bffee0
+
+Package: com.netskao.pulloverpro
+Name: PullOver Pro (Rootless)
+Description: Dễ dàng truỵ cập nhanh ứng dụng qua bong bóng chat ở cạnh màn hình - Hồi trợ IOS15+
+Conflicts: com.c1d3r.pulloverpro
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: c1d3r
+Maintainer: Nets
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Installed-Size: 2440
+Icon: https://jtisvn.github.io/sectionIcons/PullOverPro.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/PullOverpro.json
+Filename: debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 696892
+MD5sum: 1fdbc8470b2641f2eb93b9b834c48a6a
+SHA256: 588c1ca6d94c37f405f64ea51af25a7f1cae7bf4dd08c74b3ba630abbf89715c
+
+Package: com.netskao.pulloverpro
+Name: PullOver Pro (Roothide)
+Description: Dễ dàng truỵ cập nhanh ứng dụng qua bong bóng chat ở cạnh màn hình - Hồi trợ IOS15+
+Conflicts: com.c1d3r.pulloverpro
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: c1d3r
+Maintainer: Nets
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Installed-Size: 2440
+Icon: https://jtisvn.github.io/sectionIcons/PullOverPro.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/PullOverpro.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64e.deb
+Size: 700000
+MD5sum: 769743f0d65b0a1d047202c4795a66e3
+SHA256: 3f5604fd44c53469accd33a9492b4ab8d022729b988f503b612e2f1bbdd5ed87
+
+Package: com.opa334.ccsupport
+Name: CCSupport
+Depends: mobilesubstrate, firmware (>=11.0)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Description: Support tweak for CC modules!
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Architecture: iphoneos-arm64e
+Version: 1.3.13-2-15+debug
+Installed-Size: 716
+Filename: debs/com.opa334.ccsupport_1.3.13-2-15+debug_iphoneos-arm64e.deb
+Size: 78138
+MD5sum: c08c9a3794e51d9d6ec64434f812b2ce
+SHA256: 51ff0060cb88235b1e098b8c5a550ed6280313ed29b42d5d4c809109b0e498bc
+
+Package: com.ps.smoothcursorios13
+Name: SmoothCursor (iOS 13+)
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Description: Làm mượt con trỏ chuột di chuyển khi gõ phím chứ trên IOS
+Maintainer: JTIS Repo
+Author: Jtis Repo
+Section: Tweaks
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.ps.smoothcursorios13_0.0.1_iphoneos-arm64e.deb
+Size: 4096
+MD5sum: 1fe351614c7339b223f1b2fada7a6c36
+SHA256: 78d77aceb44cef1d690ecdbbd34f88e467140950094d1dadeddc63da82856140
+
+Package: com.roothide.manager
+Name: RootHide Manager (Rootless)
+Depends: firmware (>= 15.0)
+Description: Configuare RootHide's Features
+Maintainer: JITS Repo
+Author: roothide
+Section: System
+Icon: 
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+Architecture: iphoneos-aảm64
+Version: 1.3.3
+Installed-Size: 1076
+Filename: debs/com.roothide.manager_1.3.3_iphoneos-aảm64.deb
+Size: 749128
+MD5sum: 97d2f76a537cf7f55050ac384257fc3f
+SHA256: 0041c5820ed1a613f64a8579d20c6f9627a0c92cb94905e44afd340a6f6e24ec
+
+Package: com.roothide.managers
+Name: RootHide Manager
+Depends: firmware (>= 15.0)
+Description: Configuare RootHide's Features
+Maintainer: roothide
+Author: roothide
+Section: System
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/hethongg1.png: 
+Depiction: https://github.com/roothide/RootHideManagerApp
+Support: https://github.com/roothide/RootHideManagerApp
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 896
+Filename: debs/com.roothide.managers_1.1_iphoneos-arm64.deb
+Size: 763450
+MD5sum: fcb15121c5f178629d0cf796178d12f7
+SHA256: 53d0bf83d98ea9716c7ebbd99ff83519793c23aa5bae3f75320cda41727c4e23
+
+Package: com.spark.snowboard.dock
+Name: SnowBoard Dock Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Dock for SnowBoard
+Maintainer: JTIS Repo
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64e
+Version: 1.1.3~Beta4-rootless
+Installed-Size: 440
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64e.deb
+Size: 33824
+MD5sum: 655ce7feb2dfeb1dc51c4342e8a8a456
+SHA256: 4fe80051a50c6b361e00e26f9d2e0e12c571d98fd0ec96afce3c98b4252a99f4
+
+Package: com.xina.blacklist
+Name: XinaBlackList (Rootless)
+Description: XinaBlackList cho phép bạn loại trừ các ứng dụng hoặc tiến trình khỏi việc load tweak trong môi trường jailbreak XinaA15. Rất hữu ích để vượt qua các cơ chế phát hiện jailbreak trong app ngân hàng, game hoặc ứng dụng bảo mật cao.
+Maintainer:JTIS Repo
+Author: xina520 <3608063@qq.com>
+Section: Ần Jailbreak
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3-1+debug
+Installed-Size: 288
+Filename: debs/com.xina.blacklist_0.0.3-1+debug_iphoneos-arm64.deb
+Size: 39512
+MD5sum: 997811e88ff5deb07b36b39b365364ac
+SHA256: 99fe04a97ae98dc7ced879f1ff1ac532927eb4e9b39405cd95b9add52a3bf51e
+
+Package: com.yan.anitime
+Name: AniTime (Rootless)
+Description: Hiển thị thời gian hình nhân vật Anime trên màn hình khoá.
+Maintainer: yan
+Author: yan
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Icon: https://Jtisvn.github.io/sectionIcons/AniTime.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/AniTime.json
+Architecture: iphoneos-arm64
+Version: 1.0.1K
+Installed-Size: 1488
+Filename: debs/com.yan.anitime_1.0.1K_iphoneos-arm64.deb
+Size: 392740
+MD5sum: c7584ea863c65d0a8caea6cb65796173
+SHA256: d7375bfb49ffe407bad03180b8a20e8d399d857dd0a4b13d441df2310b6366f3
+
+Package: jtis.filzacrack-roothide
+Version: 1.1-8
+Section: Tweaks
+Maintainer: Jtis Repo
+Depends: firmware (>= 15.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Installed-Size: 72
+Name: Filza Crack (Roothide)
+Author: Netskao
+Description: Kích hoạt quyền full chức năng của Filza nguồn chính chủ.
+Homepage: https://tigisoftware.com/cydia/
+Pre-Depends: rootless-compat(>= 0.1)
+Filename: debs/jtis.filzacrack-roothide_1.1-8_iphoneos-arm64e.deb
+Size: 6356
+MD5sum: fead3bc8309c0d7d9990dae5bd0da3ea
+SHA256: 9ef691c0ae054b6abe9eb1bb30f9c2a4419ede65625cbde02046bbf2513d9e3d
+
+Package: me.tomt000.stageduo
+Name: Dynamic Stage (Roothide)
+Architecture: iphoneos-arm64e
+Description: Stage Manager Reimagined for iPhone
+Maintainer: tomt000
+Author: tomt000
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Version: 1.2.1
+Icon: https://jtisvn.github.io/sectionIcons/Stage.png
+SileoDepiction: https:/jtisvn.github.io/sileodepictions/Stage.json
+Installed-Size: 4900
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/me.tomt000.stageduo_1.2.1_iphoneos-arm64e.deb
+Size: 3076932
+MD5sum: bf5d11a1acbc6f505675de21428f1957
+SHA256: 91b0c54cad1059b54b67d1fcb55d3bd257f20dc152ed6ff8afa743819e80ffcf
+
+Package: ru.rejail.dleasy
+Name: DLEasy Roothide)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Description: Tải xuống hình ảnh và video trên nền tảng mạng xã hội.
+Maintainer: JTIS Repo
+Author: AhmedBafkir <prooxy0@gmail.com>
+Section: Tweaks
+Depiction: https://jtisvn/jtisvn.github.io/infodeb/DLEasy/index.html
+SileoDepiction: https://jtisvn.github.io/sileodepictions/DLEasy.json
+Icon: https://Jtisvn.github.io/sectionIcons/DLEasy.png
+Architecture: iphoneos-arm64e
+Version: 2.14.8K-Roothide
+Installed-Size: 15616
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/ru.rejail.dleasy_2.14.8K-Roothide_iphoneos-arm64e.deb
+Size: 11017884
+MD5sum: 67d1dadeaff71ad132f7a5cc8ca995e6
+SHA256: 2b2349c9c1fbf978b5fc98f1ecb5b4643b8324974bfab423e882b793b28a3086
+
+Package: ru.rejail.dleasy
+Name: DLEasy (Rootless)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Description: Tải xuống hình ảnh và video trên nền tảng mạng xã hội.
+Maintainer: JTIS Repo
+Author: AhmedBafkir <prooxy0@gmail.com>
+Section: Tweaks
+Depiction: https://jtisvn/jtisvn.github.io/infodeb/DLEasy/index.html
+SileoDepiction: https://jtisvn.github.io/sileodepictions/DLEasy.json
+Icon: https://Jtisvn.github.io/sectionIcons/DLEasy.png
+Architecture: iphoneos-arm64
+Version: 2.14.8
+Installed-Size: 15616
+Filename: debs/ru.rejail.dleasy_2.14.8_iphoneos-arm64.deb
+Size: 5554252
+MD5sum: f1400a2f57ecd3b6d782aa2cd16df086
+SHA256: 2d8757607136896da3fa8670a8fc89537f05977b1c4d9ed0264db8c3b8842820
+
+Package: ru.rejail.dleasy
+Name: DLEasy (Roothide)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Description: Tải xuống hình ảnh và video trên nền tảng mạng xã hội.
+Maintainer: JTIS Repo
+Author: AhmedBafkir <prooxy0@gmail.com>
+Section: Tweaks
+Depiction: https://jtisvn/jtisvn.github.io/infodeb/DLEasy/index.html
+SileoDepiction: https://jtisvn.github.io/sileodepictions/DLEasy.json
+Icon: https://Jtisvn.github.io/sectionIcons/DLEasy.png
+Architecture: iphoneos-arm64e
+Version: 2.14.8
+Installed-Size: 15616
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/ru.rejail.dleasy_2.14.8_iphoneos-arm64e.deb
+Size: 11027208
+MD5sum: 9bafd63d176f03f770f3f40fd044b74b
+SHA256: f4c96295115335ceec60065973da8ca5c224df1aaf72ca8f3b3513b61b9ffe72
+
+Package: wiki.qaq.chromatic.rootless
+Name: Saily (Rootless)
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Version: 3.0-rootless-release-1726897475.c88adb3
+Section: Applications
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Architecture: iphoneos-arm64
+Homepage: https://sailyteam.github.io/Saily/index.html
+Website: https://sailyteam.github.io/Saily/index.html
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+SileoDepiction: https://jtisvn.github.io/sileodepictions/Sally.json
+Conflicts: wiki.qaq.chromatic
+Filename: debs/wiki.qaq.chromatic.rootless_3.0-rootless-release-1726897475.c88adb3_iphoneos-arm64.deb
+Size: 3351032
+MD5sum: 6435fc008d9bc61cf2d5264eee9b753f
+SHA256: 1b942fef0c685c78226d1b62c9f4fd6c10c75b73bafd2ccc8baed33042caab91
+
+Package: ws.hbang.alderis
+Name: Alderis Color Picker
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
+Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
+Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
+Description: Color picker support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://chariz.com/get/alderis
+Icon: https://img.chariz.cloud/icon/alderis/icon@3x.png
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios12.0
+dev: hbang
+Architecture: iphoneos-arm64e
+Version: 1.2.3-8+debug
+Installed-Size: 6016
+Filename: debs/ws.hbang.alderis_1.2.3-8+debug_iphoneos-arm64e.deb
+Size: 857360
+MD5sum: 163162fd0db44b348478d1973d8576ea
+SHA256: 23338feb0fa8f0adbdd3ae843df1d191e18bd9450ef1e813983584cf0f094575
+
+Package: ws.hbang.common
+Name: Cephei Tweak Support
+Depends: firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios5.0
+dev: hbang
+Version: 1.17
+Installed-Size: 1852
+Filename: debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 337782
+MD5sum: bc16d05216da9b32a206147fe2d35b22
+SHA256: 6ea90d7d9f30f13b977f3663b6e1d2f88d627374cfe67929cbaba2efa9ce43a3
+
+Package: ws.hbang.common
+Name: Cephei Tweak Support
+Depends: firmware (>= 15.0)
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible_min::ios15.0
+Architecture: iphoneos-arm64e
+Version: 2.0-30K
+Installed-Size: 5632
+Filename: debs/ws.hbang.common_2.0-30K_iphoneos-arm64e.deb
+Size: 1206752
+MD5sum: 739b2a38610ecfea647aa23f807b357e
+SHA256: 9d7c570bcd6cfccd0a2137ee4d45d2db622604bf0a009b625660d67f49054194
+

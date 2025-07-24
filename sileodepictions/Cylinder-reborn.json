@@ -1,0 +1,107 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://romlayvn.github.io/coverimage/romlayvnrepo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"# Tùy biến hiệu ứng cuộn biểu tượng trên màn hình chính!\n\n- Cylinder Reborn mang đến những hiệu ứng cuộn biểu tượng cực kỳ mượt mà cho iOS!\n\n- Với khả năng tùy chỉnh và kết hợp nhiều hiệu ứng, Cylinder Remade cho phép bạn tạo ra các kiểu chuyển động đa dạng và độc đáo cho biểu tượng trên thiết bị của mình.. \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView", "title":"Hình ảnh" },
+{
+    "class":"DepictionScreenshotsView",
+    "screenshots":[
+    {
+    "url":"https://romlayvn.github.io/infodeb/Cylinder-reborn/Screenshots/cylinder-reborn1.jpg",
+    "accessibilityText":"Screenshot"
+    },
+    {
+    "url":"https://romlayvn.github.io/infodeb/Cylinder-reborn/Screenshots/cylinder-reborn2.jpg",
+    "accessibilityText":"Screenshot"
+    },
+    {"url":"https://romlayvn.github.io/infodeb/Cylinder-reborn/Screenshots/cylinder-reborn3.jpg",
+    "accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Tham gia nhóm "
+},
+{
+"markdown":"[**Telegram**](https://t.me/jailbreaktrolliossupport) - Join Telegram\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Ryan Nair"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"27/4/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 - 16.5"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.10\n\nHiệu ứng cuộn mượt mà hơn."
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

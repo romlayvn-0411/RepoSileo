@@ -1,0 +1,93 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://romlayvn.github.io/coverimage/romlayvnrepo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https:/romlayvn.github.io//infodeb/setting3fmeizu/Screenshots/setting3dmeizu.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"# Chủ đê Meizu 3D cho Setting trên thiết bị của bạn.\n\n- Kích hoạt chủ đề qua Snowboard. \n\n- AI cần full icon setting ib tác giả qua link telegram bên dưới nhé",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ Telegram"
+},
+{
+"markdown":"[**Telegram**](https://t.me/MissLove2407) - MissLove2407\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Miss"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Themes"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"01/5/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.6.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Icon themes bản demo \n\n Hỗ trợ Rootless Jailbreak."
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

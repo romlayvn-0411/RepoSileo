@@ -1,0 +1,107 @@
+{
+    "minVersion":"0.4",
+    "headerImage":"https://romlayvn.github.io/coverimage/romlayvnrepo.png",
+    "tintColor":"#5777B8",
+    "tabs":[
+    {
+    "tabname":"Chi tiết",
+    "views":[
+    { "class":"DepictionHeaderView", "title":"" },
+    {
+    "class":"DepictionHeaderView",
+    "title":"Mô tả & Giới thiệu"
+    },
+    {
+"markdown":"# TGExtra.\n\n- Thêm các chức năng tiện ích cho ứng dụng Swiftgram.\n\n- Tắt Quảng Cáo\n\n- Chế độ Ẩn danh (Ghost Mode)\n\n- Tắt thông báo đã đọc tin nhắn và xem story.\n\n- Và còn 1 số chức năng khác nữa...\n\n- Sử dụng bằng cách nhấn 5 lần vào tab Chats\n\n- Chi tiết xem thêm hình ảnh bên dưới",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView", "title":"Hình ảnh" },
+{
+    "class":"DepictionScreenshotsView",
+    "screenshots":[
+    {
+    "url":"https://romlayvn.github.io/infodeb/TGetra/Screenshots/1.png",
+    "accessibilityText":"Screenshot"
+    },
+    {
+    "url":"https://romlayvn.github.io/infodeb/TGetra/Screenshots/2.png",
+    "accessibilityText":"Screenshot"
+    },
+    {"url":"https://romlayvn.github.io/infodeb/TGetra/Screenshots/3.png",
+    "accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Tham gia nhóm "
+},
+{
+"markdown":"[**Telegram**](https://t.me/jailbreaktrolliossupport) - Join Telegram\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"choco"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"26/5/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15 đến 16.6.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### Phiên bản 1.2.1\n\n- Thêm ngôn ngữ Tiếng Việt\n\n- Hỗ trợ Rootless vat Roothide Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by RomLayVN",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
