@@ -1,16 +1,4 @@
-Package: com.sergy.immortalizer
-Name: Immortalizer
-Description: Foreground your apps even if they are in the background!
-Maintainer: sergy
-Author: sergy
-Section: Tweaks
-Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
-Architecture: iphoneos-arm64
-Version: 2.0.0-1
-Installed-Size: 652
 Filename: debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
 Size: 42936
 MD5sum: 23af36bc7928407419dd377f55d00820
-SHA256: 36c810efa07533df8e4218d58f97b6fac3211b1d215858891aab1fa623dc5bd4
 

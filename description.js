@@ -19,6 +19,15 @@ class QuanLyGoi {
             this.hienThiNutThemKhoNeuKhongPhaiCydia();
             this.taiThongTinGoi();
         });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Lấy thông tin gói từ URL (ví dụ: description.html?id=com.example.package)
+            const urlParams = new URLSearchParams(window.location.search);
+            const packageId = urlParams.get('id');
+        
+            // Hiển thị ID gói (hoặc tải thông tin từ server nếu cần)
+            document.getElementById('package-id').textContent = packageId;
+        });
     }
 
     // Thiết lập liên kết ủng hộ
